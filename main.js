@@ -9,4 +9,5 @@ let country = "Nigerian"
 console.log(fullname)
 console.log(height)
 console.log(country)
-window.print(fullname, height, country)
+
+alert(` Hello my name is ${fullname} i am ${height} tall, and i am a ${country}`)
